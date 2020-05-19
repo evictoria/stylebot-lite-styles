@@ -1,3 +1,9 @@
+/*
+MIT License
+Copyright (c) 2020 EJ Victoria
+https://github.com/evictoria/stylebot-lite-styles
+*/
+
 #divImage {
     background-color: black;
     display: flex;
