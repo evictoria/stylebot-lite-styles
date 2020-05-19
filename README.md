@@ -12,3 +12,5 @@ Collections of Stylebot Lite styles for websites
 6. Paste the style.
 7. Save and close.
 8. ENJOY :)
+
+PS: You can always toggle off the custom style.
