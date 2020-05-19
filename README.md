@@ -5,7 +5,7 @@ Collections of Stylebot Lite styles for websites
 ### How to use
 
 1. Download and install Stylebot Lite from https://chrome.google.com/webstore/detail/stylebot-lite/lkcdgdbfbbnpnljlalmcjnepgjnmgigh.
-2. Copy a style from this repository, eg kissmanga.com-style.
+2. Open and copy the contents of a style from this repository, eg kissmanga.com-style.
 3. Open the website in Chrome, eg https://kissmanga.com.
 4. Open Stylebot Lite.
 5. Edit CSS.
